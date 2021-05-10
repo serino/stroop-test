@@ -1,0 +1,1 @@
+This app allows a user to select the correct color of the font despite the word's name.
